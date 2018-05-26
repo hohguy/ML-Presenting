@@ -1,0 +1,22 @@
+{
+    "name": "David Fourney",
+    "netlify_subdomain": "https://competent-hopper-ddd82e.netlify.com",
+    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>",
+    "blog_post_1": {
+        "title": "<TITLE1>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_2": {
+        "title": "<TITLE2>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_3": {
+        "title": "<TITLE3>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "my_linkedin": "www.linkedin.com/in/davidfourney",
+    "latex": "\\(\\left[ \\begin{array}{ccc}\r\n9 & 9 \\\\\r\n6 & 10 \\\\\r\n5 & 7\r\n\\end{array} \\right] = \\left[ \\begin{array}{ccc}\r\n1 & 0 & 1 \\\\\r\n1 & 1 & 1 \\\\\r\n0 & 0 & 1\r\n\\end{array} \\right] \\cdot \\left[ \\begin{array}{cc}\r\n4 & 2 \\\\\r\n1 & 3 \\\\\r\n5 & 7\r\n\\end{array} \\right]\\)"
+}
